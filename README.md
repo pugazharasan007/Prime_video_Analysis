@@ -51,6 +51,7 @@ Welcome to the **Prime Video Dashboard** project! This interactive dashboard, bu
 - Developed an interactive dashboard using **Power BI** to analyze Prime Video's library.
 - Includes insights into genres, ratings, countries, content types, and release trends over time.
 - Provides actionable insights for content strategy and audience targeting.
+- LINK: https://app.powerbi.com/groups/me/reports/db525d7a-1288-4ca7-9982-682e19c159df/2cc57db43887c5931cb1?experience=power-bi
 
 ---
 
